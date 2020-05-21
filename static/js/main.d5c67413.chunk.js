@@ -1,0 +1,2 @@
+(this["webpackJsonptic-tac-toe"]=this["webpackJsonptic-tac-toe"]||[]).push([[0],{3:function(t,e,n){t.exports=n(8)},8:function(t,e,n){"use strict";n.r(e);var c=n(0),a=n.n(c),o=n(2),r=n.n(o);var i=function(){return a.a.createElement("h1",null,"Play Tic-Tac-Toe")},u=document.getElementById("root");r.a.render(a.a.createElement(i,null),u)}},[[3,1,2]]]);
+//# sourceMappingURL=main.d5c67413.chunk.js.map
